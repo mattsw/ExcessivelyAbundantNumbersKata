@@ -5,9 +5,6 @@ public class AbundantTest {
 		AbundantNumbers test = new AbundantNumbers();
 		System.out.println(testAbundant(test, 12));
 		System.out.println(testAbundant(test, 10));
-		System.out.println(testAbundant(test, 16));
-		System.out.println(testAbundant(test, 18));
-		
 		
 	}
 	

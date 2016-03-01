@@ -10,7 +10,6 @@ public class AbundantNumbers {
 				divisors.add(x);
 		}
 		sum = addSum(divisors);
-		divisors.clear();
 		return sum > testNum;
 	}
 	
